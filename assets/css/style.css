@@ -132,3 +132,7 @@ html,body{
 .push{
     height: 50px;
 }
+
+input[type=submit]:hover {
+    background-color: #44afbc;
+}
